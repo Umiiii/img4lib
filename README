@@ -50,3 +50,5 @@ Patches for kc_iPhone6,1_9.0_13A344:
 #0x00F5595F 0x94 0x52
 
 -xerub
+
+Add one release for macOS 10.15.1
